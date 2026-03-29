@@ -40,7 +40,7 @@ cofihy fixes this by making one shared place where both sides agree on everythin
 ### 1. Clone
 
 ```bash
-git clone https://github.com/<your-username>/cofihy.git
+git clone https://github.com/Wayaans/cofihy.git
 ```
 
 ### 2. Generate backend rules
